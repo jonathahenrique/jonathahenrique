@@ -4,6 +4,8 @@
 - 🌱 Estou estudando Análise e Desenvolvimento de Sistemas na Estácio, e cursos de programação na web.
 - ⚡ Apaixonado por games e tecnologia.
 
+##
+
 <div align="center">
   <a href="https://github.com/jonathahenrique">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jonathahenrique&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
