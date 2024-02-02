@@ -1,9 +1,6 @@
 ### Hello World! I'm Jonatha Henrique 👋
 
-- 🔭 Trabalho atualmente na Renasoft Sistemas como Líder da equipe de Suporte.
-- 🔭 Trabalho também de forma autônoma com desenvolvimento de sites em WordPress.
-- 🌱 Estou estudando Análise e Desenvolvimento de Sistemas na Estácio, e cursos de programação na web.
-- ⚡ Apaixonado por games e tecnologia.
+- 🔭 Sou sócio fundador da Arion Conexões, especialista em criação de sites, abrangendo também toda a parte de marketing digital.
 
 ##
 
